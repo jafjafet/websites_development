@@ -1,3 +1,9 @@
+<!doctype html>
+ <html>
+  <head>
+  <title> paragraph </title>
+  </head>
+  <body>
 <p>first paragraph. Human life is truly a very precious gift. Each moment of human life carries
  us an opportunity, to act to develop and express our virtues. Every moment 
  unlocks the path to us to receive blessings. This is the truth that life gives 
@@ -6,3 +12,5 @@
 <p>Second paragraph.Life is the gift of God in the form of trust that we will make it meaningful in 
 whatever we can. We are all unique individuals. No one is born like you and no 
 one will ever be, so cherish your individuality. Many times, I come across people accusing God of things that they don’t have. They always cursing their lives. But, do they realize that this life itself is precious? If we make it worth living and work hard towards positivity.</p>
+</body>
+</html>
