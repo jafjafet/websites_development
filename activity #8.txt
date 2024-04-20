@@ -1,0 +1,3 @@
+<h1>I am a cat person</h1>
+<!-- Cat image URL-->
+<img src="https://static.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg" alt="dancing cat"/>
